@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+
+    <!-- Main Activity-->
+    <string name="main_act_tv_city_name">CITY NAME</string>
+    <string name="main_act_et_city_name">Enter your city name here.</string>
+    <string name="main_act_btn_search">SEARCH</string>
+    <string name="main_act_tv_no_data">Something went wrong. Please try again</string>
+
+    <!--error messages -->
+    <string name="err_city_name">City name is required</string>
+    <string name="err_city_name_min_length">Minimum four characters are required</string>
+</resources>
